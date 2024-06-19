@@ -1,0 +1,6 @@
+@TestFujitsu_HostAddress = http://localhost:5197
+
+GET {{TestFujitsu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
